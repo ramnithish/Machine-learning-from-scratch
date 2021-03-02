@@ -4,5 +4,5 @@ This repo contains machine learning codes and links for reference. This repo is 
 
 Contents
 1. Evaluation Metrics
-a) [Precision and Recall] #https://towardsdatascience.com/multi-class-metrics-made-simple-part-i-precision-and-recall-9250280bddc2
+ -[Precision and Recall] (#https://towardsdatascience.com/multi-class-metrics-made-simple-part-i-precision-and-recall-9250280bddc2)
 
