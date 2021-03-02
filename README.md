@@ -6,4 +6,5 @@ Contents
 1. Evaluation Metrics
 
 - [Precision and Recall](https://towardsdatascience.com/multi-class-metrics-made-simple-part-i-precision-and-recall-9250280bddc2)
+- [F1-Score](https://towardsdatascience.com/multi-class-metrics-made-simple-part-ii-the-f1-score-ebe8b2c2ca1)
 
